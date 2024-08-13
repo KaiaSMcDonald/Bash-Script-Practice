@@ -11,7 +11,7 @@ directory_name="backup"
 
 #Check if the directory exists
 
-if [$directory_name] then;
+if [ -d $directory_name] then;
 
 #Create the directory 
 
