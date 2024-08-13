@@ -1,6 +1,7 @@
 # Bash-Script-Practice
 
-
+Directory Check
+```
 #!/bin/bash
 
 #Define the name of the directory 
